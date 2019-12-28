@@ -13,7 +13,6 @@ description:         This package provides an EDSL for writing portable, type-sa
                      selda-sqlite and selda-postgresql.
 homepage:            https://selda.link
 license:             MIT
-license-file:        LICENSE
 author:              Anton Ekblad
 maintainer:          anton@ekblad.cc
 category:            Database

@@ -2,7 +2,6 @@ name:                selda-tests
 version:             0.1.0.0
 synopsis:            Tests for the Selda database DSL.
 license:             MIT
-license-file:        LICENSE
 author:              Anton Ekblad
 maintainer:          anton@ekblad.cc
 category:            Database
